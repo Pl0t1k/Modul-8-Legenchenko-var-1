@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul 8 Legenchenko var 1", "Modul 8 Legenchenko var 1\Modul 8 Legenchenko var 1.csproj", "{5F6B98DE-5F0F-4445-A958-0870C5D42891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6B98DE-5F0F-4445-A958-0870C5D42891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6B98DE-5F0F-4445-A958-0870C5D42891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6B98DE-5F0F-4445-A958-0870C5D42891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6B98DE-5F0F-4445-A958-0870C5D42891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {435FFD9B-007D-47F8-AA15-06E410B62320}
+	EndGlobalSection
+EndGlobal
